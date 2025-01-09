@@ -13,7 +13,6 @@ User-Friendly Interface: Text-based interface with clear prompts and feedback.
      
 Customizable Rules: Easily adaptable for different game rules or player preferences.
 
-
 **🎮 How to Play**
 
 Start the game by running the script.
