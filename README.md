@@ -10,7 +10,7 @@ Randomized Results: Utilizes Python's random module for fair outcomes.
   
 User-Friendly Interface: Text-based interface with clear prompts and feedback.
      
-Customizable Rules: Easily adaptable for different game rules or player preferences.
+Customizable Rules: Easily adaptable for different game rules or player preferences.  
 
 **🎮 How to Play**
 
