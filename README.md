@@ -15,7 +15,7 @@ Customizable Rules: Easily adaptable for different game rules or player preferen
 **🎮 How to Play**
 
 Start the game by running the script.
-
+  
 Follow the on-screen instructions to roll the dice.
 
 The game will display the results of the roll.
